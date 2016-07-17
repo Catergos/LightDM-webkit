@@ -1,0 +1,7 @@
+[theme]
+name=Catergos
+version=1.0
+description=Catergos Theme
+engine=lightdm-webkit2-greeter
+url=index.html
+session=cinnamon
